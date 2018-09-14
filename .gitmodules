@@ -1,0 +1,6 @@
+[submodule "TinderJobsApp"]
+	path = TinderJobsApp
+	url = https://github.com/gopa2000/TinderJobsApp.git
+[submodule "TinderJobsBE"]
+	path = TinderJobsBE
+	url = https://github.com/gopa2000/TinderJobsBE.git
